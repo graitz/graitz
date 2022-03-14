@@ -9,22 +9,14 @@
 - 🃏 Fun fact: I became a cadet at 42|RIO
 - 📫 How to reach me: gilbertoraitzjr@gmail.com
 
- <div>
+<center>
+<div>
   <a href="https://github.com/graitz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=graitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graitz&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=graitz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graitz&layout=compact&langs_count=7&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>   
-
-  
+</center> 
+ 
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Raitz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
