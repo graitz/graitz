@@ -1,4 +1,4 @@
-###  👋 Hello world!
+### 👋 Hello world!
 
 ### Welcome to my profile! 👊
 
@@ -11,7 +11,7 @@
 - 🃏 Fun fact: I became a cadet at 42|RIO
 - 📫 How to reach me: gilbertoraitzjr@gmail.com
 
-### 💻 Social Media
+#### 💻 Social Media
 
 [![LinkedIn][4.1]][4.2]		[![Instagram][2.1]][2.2]
 <!-- Icons -->
@@ -24,7 +24,14 @@
 [2.2]: https://www.instagram.com/gilraitz/
 [4.2]: https://www.linkedin.com/in/gilbertoraitzjr/
 
-#### :chart_with_upwards_trend: &emsp; Stats
+#### 📈 Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=graitz&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=)](https://github.com/graitz?tab=repositories) 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=graitz&layout=compact&hide_border=true&theme=)](https://github.com/graitz?tab=repositories)
+
+<p align="center">
+    <img alt="caroldaniel's stars" src="https://img.shields.io/github/stars/graitz?color=blue" />
+    <img alt="caroldaniel's followers" src="https://img.shields.io/github/followers/graitz?color=blue" />
+    <img alt="caroldaniel's visitors" src="https://komarev.com/ghpvc/?username=graitz&color=blue&style=flat&label=visitors" />	
+	
+</p>
