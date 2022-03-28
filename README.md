@@ -4,12 +4,12 @@
 
 ### I'm a passionate Geologist interested in technology and Cadet from 42|Rio.
 
-- 🐍 I’m currently learning:  
-- 📗 I’m currently reading: 
-- 🎥 I'm currently watching: 
+- 📖 I’m currently learning: C   
+- 📗 I’m currently reading: Concentration Mouni Sadhu
+- 🎥 I'm currently watching: all kind of movie 🤷‍♂️
 - ✏️ Hobby: surf, climb and any sport.
 - 🃏 Fun fact: I became a cadet at 42|RIO
-- 📫 How to reach me: gilbertoraitzjr@gmail.com
+- 📫 How to reach me: graitz-j@student.42.rio
 
 #### 💻 Social Media
 
