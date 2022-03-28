@@ -16,8 +16,8 @@
 [![LinkedIn][4.1]][4.2]		[![Instagram][2.1]][2.2]
 <!-- Icons -->
 
-[2.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/afac2b0137c737baad6cd09c10d534f250c6b862/Instagram_icon.png
-[4.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/afac2b0137c737baad6cd09c10d534f250c6b862/linkedin_scale.png
+[2.1]: https://github.com/graitz/graitz-utils/blob/main/Instagram_icon.png
+[4.1]: https://github.com/graitz/graitz-utils/blob/main/linkedin_scale.png
 
 <!-- Links to your social media accounts -->
 
