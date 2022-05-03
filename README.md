@@ -7,7 +7,7 @@
 - 📖 I’m currently learning: C   
 - 📗 I’m currently reading: Concentration Mouni Sadhu
 - 🎥 I'm currently watching: all kind of movie 🤷‍♂️
-- ✏️ Hobby: surf, climb and any sport.
+- ✏️ Hobby: surf and any sport involve water.
 - 🃏 Fun fact: I became a cadet at 42|RIO
 - 📫 How to reach me: graitz-j@student.42.rio
 
