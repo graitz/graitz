@@ -2,17 +2,17 @@
 
 ### Welcome to my profile! 👊
 
-🎓 graduated geologist
-🎓 master's in petrophysics
-✏️ worked with petrophysics 
-📖 scientist at UFRJ
-🏄 surf and any sport involve water.
+* 🎓 graduated geologist
+* 🎓 master's in petrophysics
+* ✏️ worked with petrophysics 
+* 📖 scientist at UFRJ
+* 🏄 surf and any sport involve water.
 
 #### 💻 Social Media
 
 <p align="center">
 	<a href="mailto:gilbertoraitzjr@gmail.com">
-		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:gilbertoraitzjr@gmail.com" />
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-red?style=flat&logo=Gmail&logoColor=white&link=mailto:gilbertoraitzjr@gmail.com" />
 	</a>
 	<span> * </span>
 	<a href="https://www.linkedin.com/in/gilbertoraitzjr/">
