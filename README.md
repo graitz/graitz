@@ -2,27 +2,27 @@
 
 ### Welcome to my profile! 👊
 
-### I'm a passionate Geologist interested in technology and Cadet from 42|Rio.
-
-- 📖 I’m currently learning: C   
-- 📗 I’m currently reading: Concentration Mouni Sadhu
-- 🎥 I'm currently watching: all kind of movie 🤷‍♂️
-- ✏️ Hobby: surf and any sport involve water.
-- 🃏 Fun fact: I became a cadet at 42|RIO
-- 📫 How to reach me: graitz-j@student.42.rio
+🎓 graduated geologist
+🎓 master's in petrophysics
+✏️ worked with petrophysics 
+📖 scientist at UFRJ
+🏄 surf and any sport involve water.
 
 #### 💻 Social Media
 
-[![LinkedIn][4.1]][4.2]		[![Instagram][2.1]][2.2]
-<!-- Icons -->
-
-[2.1]: https://github.com/graitz/graitz-utils/blob/main/Instagram_icon.png
-[4.1]: https://github.com/graitz/graitz-utils/blob/main/linkedin_scale.png
-
-<!-- Links to your social media accounts -->
-
-[2.2]: https://www.instagram.com/gilraitz/
-[4.2]: https://www.linkedin.com/in/gilbertoraitzjr/
+<p align="center">
+	<a href="mailto:gilbertoraitzjr@gmail.com">
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:gilbertoraitzjr@gmail.com" />
+	</a>
+	<span> * </span>
+	<a href="mailto:gilbertoraitzjr@gmail.com">
+		<img alt="Demandez moi n'importe quoi" src="https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:gilbertoraitzjr@gmail.com" />
+	</a>
+	<span> * </span>
+	<a href="https://www.linkedin.com/in/appinha/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilbertoraitzjr/" />
+	</a>
+</p>
 
 #### 📈 Stats
 
